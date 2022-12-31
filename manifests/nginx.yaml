@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nikhilmin/nginx:green
+        image: nikhilmin/nginx:blue
         ports:
         - name: containerport
           containerPort: 80
